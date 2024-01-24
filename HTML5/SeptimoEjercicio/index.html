@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Tabla de Letras</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 300px; 
+        }
+        td {
+            border: 1px solid #000;
+            padding: 25px;
+            background-color: #ccc;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            font-size: large;
+        }
+        .transparente {
+            background-color: #ccc;
+        }
+        .sombra {
+            position: relative;
+        }
+        .sombra::after {
+            content: "";
+            position: absolute;
+            z-index: -1;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>A</td>
+            <td>B</td>
+            <td>C</td>
+            <td>D</td>
+        </tr>
+        <tr>
+            <td rowspan="2">E<br>I</td>
+            <td class="transparente sombra">F</td>
+            <td rowspan="2" colspan="2" class="transparente sombra">G<br>H</td>
+        </tr>
+        <tr>
+            <td class="transparente sombra">J</td>
+        </tr>
+        <tr>
+            <td>M</td>
+            <td class="transparente sombra">K<br>O</td>
+            <td>L</td>
+            <td>P</td>
+        </tr>
+        <tr>
+            <td colspan="2">M</td>
+            <td>N</td>
+            <td>P</td>
+        </tr>
+    </table>
+</body>
+</html>
+
+
+
