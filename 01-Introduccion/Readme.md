@@ -14,5 +14,5 @@ Cada ejercicio se encuentra en su propio archivo HTML, el cual contiene una estr
 
 Aquí está el contenido del ejercicio HTML:
 
-```html
-![HTML](/01-Introduccion/word/Readme.md)
+
+[WORD](/01-Introduccion/word/Readme.md)
