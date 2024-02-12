@@ -1,42 +1,38 @@
-Resuelve los ejercicios presentados a continuación. En cada uno de ellos, el título de la página web ha de ser del tipo “Ejercicio X”. Lo mismo con el nombre del fichero .html. Recuerda la estructura estándar de un documento HTML5: 
+## Ejercicios de HTML
+Descripción
+Este documento contiene una serie de ejercicios prácticos para mejorar tus habilidades en HTML. Cada ejercicio está diseñado para ayudarte a comprender mejor la estructura y sintaxis de HTML, así como a corregir errores comunes.
+
+## Índice de Ejercicios
+- Corrección de Errores en Documentos Web
+- Creación de una Página Web sobre Tim Berners-Lee
+- Curriculum Vitae de Bruce Wayne
+- Ejercicios de Replicación de Imágenes en HTML
+- Biografía de Vinton Cerf
+- Análisis del Desempleo
+- 
+## Ejercicio 1
+Corrección de Errores en Documentos Web
+Corrige los errores encontrados en el siguiente fragmento de código HTML.
+
+A continuación, se presenta un documento web con algunos errores de sintaxis y a nivel de estructura del documento web. Corrígelos. 
  
-<!DOCTYPE html> 
-<html> 
-  <head> 
-    <meta charset="utf-8" /> 
-    <meta name="description" content="Ejercicios laboratorio unidad 3" /> 
-    <meta name="author" content="tu_nombre" /> 
-    <title>Ejercicio X</title> 
-  </head> 
- 
-  <body> 
-    <!-- Aquí la solución del ejercicio--> 
-  </body> 
-</html> 
- 
- 
- 
-1. 	A continuación, se presenta un documento web con algunos errores de sintaxis y a nivel de estructura del documento web. Corrígelos. 
- 
-<html> 
-  <head> 
-    <title>World Wide Web</title> 
-  </head> 
-  <body> 
-    <h1>World Wide Web</h1> 
-    <p>En informática, la <strong><em>World Wide Web</strong></em> (WWW) o Red informática mundial comúnmente conocida como la web, es un sistema de distribución de documentos de hipertexto o hipermedios interconectados y accesibles vía Internet. Con un navegador web, un usuario visualiza sitios web compuestos de páginas web que pueden contener texto, imágenes, vídeos u otros contenidos multimedia, y navega a través de esas páginas usando hiperenlaces. 
-    <h2>Historia</h2> 
-    <p> 
-    La web se desarrolló entre marzo de 1989 y diciembre de 1990 por el inglés Tim Berners-Lee con la ayuda del belga Robert Cailliau mientras trabajaban en el CERN en Ginebra, Suiza, y publicado en 1992. 
-    </p> 
-    <p> 
-    Desde entonces, Berners-Lee ha jugado un papel activo guiando el desarrollo de estándares web (como los lenguajes de marcado con los que se crean las páginas web), y en los últimos años ha abogado por su visión de una web semántica. 
-    </p> 
-    <p>Fuente: <em>Wikipedia</p></em> 
-</html>  
- 
- 
-2.	A continuación, se presenta un documento web con algunos errores de sintaxis y a nivel de estructura del documento web. Corrígelos. 
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="description" content="Ejercicios laboratorio unidad 3" />
+    <meta name="author" content="tu_nombre" />
+    <title>Ejercicio X</title>
+</head>
+<body>
+    <!-- Aquí la solución del ejercicio -->
+</body>
+</html>
+
+Errores comunes incluyen etiquetas mal cerradas, falta de etiquetas esenciales como <html>, <head>, y <body>, y errores en la estructura del documento. 
+
+## Ejercicio 2
+A continuación, se presenta un documento web con algunos errores de sintaxis y a nivel de estructura del documento web. Corrígelos. 
  
 <DOCTYPE html> 
   <html> 
@@ -56,7 +52,9 @@ Resuelve los ejercicios presentados a continuación. En cada uno de ellos, el t�
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae quam optio nesciunt atque iure  animi dicta velit</p>   <html> 
  
  
-3.	A partir del texto que se te proporciona, debes crear una página web que tenga el mismo aspecto que la imagen que se muestra a continuación. Recuerda hacer uso de los encabezados de nivel (h1, h2, h3, …) 
+## Ejercicio 3
+Creación de una Página Web sobre Tim Berners-Lee
+Utiliza la estructura HTML básica para crear una página que incluya información sobre Tim Berners-Lee, siguiendo las especificaciones dadas.
  
 Tim Berners-Lee 
  
@@ -77,7 +75,9 @@ Fuente: Wikipedia
  
  
  
-4.	A partir del texto que se te proporciona, debes crear una página web que tenga el mismo aspecto que la siguiente imagen. 
+## Ejercicio 4
+Curriculum Vitae de Bruce Wayne
+Replica el curriculum vitae de Bruce Wayne en un documento HTML, asegurándote de seguir la estructura estándar de un documento HTML5.
  
 Curriculum Vitae de Bruce Wayne 
  
@@ -96,24 +96,27 @@ Experiencia laboral
  1965-1975: Cazavillanos y demás chusma 
  1962-1965: Aprendiz de superhéroe  
  
- 
-5.	Replica en un documento de HTML la siguiente imagen. 
+# Ejercicios de Replicación
+Replica las imágenes proporcionadas en documentos HTML, prestando especial atención a la estructura y estilo requeridos.
 
-´´´´
+
+### 1.	Replica en un documento de HTML la siguiente imagen. 
+
+
 ![Imagenes](/01-Introduccion/Imagenes/5.png)
 
-´´´´
+
  
-6.	Replica en un documento de HTML la siguiente imagen. 
+### 2.	Replica en un documento de HTML la siguiente imagen. 
  
-´´´´
+
 ![Imagenes](/01-Introduccion/Imagenes/6.png)
 
-´´´´
+
  
-7.	Replica en un documento de HTML la siguiente imagen. 
+### 3.	Replica en un documento de HTML la siguiente imagen. 
  
-´´´´
+
 ![Imagenes](/01-Introduccion/Imagenes/7.png)
 
 ´´´´
@@ -128,19 +131,19 @@ Experiencia laboral
 </style> 
  
  
-8.	Replica en un documento de HTML la siguiente imagen. 
+### 4.	Replica en un documento de HTML la siguiente imagen. 
  
-´´´´
+
 ![Imagenes](/01-Introduccion/Imagenes/8.png)
 
-´´´´
- 
-9.	A partir del texto que se te proporciona, debes crear una página web que tenga el mismo aspecto que la siguiente imagen. 
 
-´´´´
+ 
+### 5.	A partir del texto que se te proporciona, debes crear una página web que tenga el mismo aspecto que la siguiente imagen. 
+
+
 ![Imagenes](/01-Introduccion/Imagenes/9.png)
 
-´´´´
+
  
 <!-- Código base --> 
 Biografía de Vincton Cerf Cuando solo tenía 25 años trabajó en el motor de cohete F-1 que sirvió para propulsar el cohete Saturno V que viajó a la luna, y 
@@ -159,7 +162,7 @@ de Google. Es miembro del Consejo Asesor Internacional del Centro Cultural Inter
  
  
  
-10.	A partir del texto que se te proporciona, debes crear una página web que tenga el mismo aspecto que la siguiente imagen. En el código base, se proporciona además una etiqueta nueva, la etiqueta <style>. Esta permite introducir instrucciones de CSS para definir la presentación visual de una web. 
+### 6.	A partir del texto que se te proporciona, debes crear una página web que tenga el mismo aspecto que la siguiente imagen. En el código base, se proporciona además una etiqueta nueva, la etiqueta <style>. Esta permite introducir instrucciones de CSS para definir la presentación visual de una web. 
  
  
 Has de tener en cuenta lo siguiente:  
