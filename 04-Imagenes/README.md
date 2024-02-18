@@ -10,10 +10,10 @@ Los ejercicios abarcan diferentes aspectos relacionados con el uso de imágenes 
 
 El repositorio está organizado en diferentes carpetas, cada una dedicada a un aspecto específico de la inserción de imágenes en HTML. La estructura es la siguiente:
 
-- `01-imagenes-locales`: Ejercicios relacionados con la inserción de imágenes almacenadas localmente en el sistema de archivos.
-- `02-imagenes-externas`: Ejercicios centrados en la inserción de imágenes externas mediante URL.
-- `03-imagenes-como-enlaces`: Ejercicios que exploran cómo utilizar imágenes como enlaces a otras páginas o recursos.
-- `04-estilos-de-imagenes`: Ejercicios para practicar la aplicación de estilos CSS a las imágenes.
+- `01-imagenes-como-enlaces`: Ejercicios que exploran cómo utilizar imágenes como enlaces a otras páginas o recursos.
+- `02-estilos-de-imagenes`: Ejercicios para practicar la aplicación de estilos CSS a las imágenes.
+- `03-imagenes-externas`: Ejercicios centrados en la inserción de imágenes externas mediante URL.
+- `04-imagenes-locales`: Ejercicios relacionados con la inserción de imágenes almacenadas localmente en el sistema de archivos.
 
 
 
