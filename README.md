@@ -1,4 +1,4 @@
-# Ejercicios Básicos de HTML 🚀
+# HTML Básico para Todos 🚀
 
 Este repositorio contiene una colección de ejercicios básicos de HTML para principiantes que te ayudarán a practicar y mejorar tus habilidades en la creación de páginas web simples utilizando HTML.
 
@@ -16,8 +16,7 @@ El repositorio está organizado en carpetas que representan diferentes temas o c
 - `04-imagenes`: Ejercicios para practicar la inserción y visualización de imágenes en una página HTML.
 - `05-formularios`: Ejercicios que involucran la creación y validación de formularios básicos en HTML.
 
-Cada carpeta contiene un archivo `README.md` con una descripción detallada de los ejercicios y posiblemente alguna guía sobre cómo abordarlos.
-### En proceso :)
+Cada carpeta contiene un archivo `README.md` con una descripción detallada de los bloques, con ejemplos interactivos y una carpeta dentro de cada uno con ejercicios a realizar para practicar.
 
 ## Contribuciones 🤝
 
