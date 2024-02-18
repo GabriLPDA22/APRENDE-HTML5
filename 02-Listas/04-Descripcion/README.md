@@ -4,6 +4,7 @@ Las listas de descripción son un tipo especial de lista en HTML que se utilizan
 
 ## Estructura
 
+```html
 <dl>: Define la lista de descripción.
 <dt>: Contiene el término o concepto que va a ser descrito.
 <dd>: Contiene la descripción o definición del término.
