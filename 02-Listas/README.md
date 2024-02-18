@@ -12,7 +12,7 @@ El repositorio está organizado en diferentes carpetas, cada una dedicada a un t
 
 - `01-listas-ordenadas`: Ejercicios relacionados con el uso de listas ordenadas en HTML (`<ol>`).
 - `02-listas-desordenadas`: Ejercicios centrados en el uso de listas desordenadas en HTML (`<ul>`).
-- `03-listas-de-definicion`: Ejercicios que exploran el uso de listas de definición en HTML (`<dl>`).
+- `03-listas-de-descripcion: Ejercicios que exploran el uso de listas de descripción en HTML (`<dl>`).
 
 
 
