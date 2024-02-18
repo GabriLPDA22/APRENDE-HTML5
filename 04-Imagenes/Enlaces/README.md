@@ -12,17 +12,7 @@ Puedes enlazar imágenes de la misma manera que enlazarías cualquier otro docum
   <img src="url_de_la_imagen_miniatura.jpg" alt="Descripción de la imagen">
 </a>
 ```
-## Estilos para Imágenes
-- CSS se puede utilizar para estilizar imágenes. Los estilos comunes incluyen dimensiones, bordes y sombras.
 
-```css
-img {
-  width: 100%;
-  height: auto;
-  border: 1px solid #000;
-  border-radius: 4px;
-}
-```
 ## Ejemplo Visual
 - A continuación se muestra cómo se vería una imagen con un enlace. Puedes hacer clic en ella para ir a la página web asociada.
 
